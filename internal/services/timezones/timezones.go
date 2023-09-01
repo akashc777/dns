@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/knadh/dns.toys/internal/geo"
+	"github.com/akashc777/dns/internal/geo"
 )
 
 const (

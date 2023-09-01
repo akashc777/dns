@@ -1,6 +1,6 @@
 [server]
 address = ":5354"
-domain = "dns.toys"
+domain = "dns.akash.page"
 
 
 [timezones]
@@ -37,7 +37,7 @@ max_entries = 5
 cache_ttl = "2h"
 
 # Useragent for the yr.no API
-useragent = "github.com/knadh/dns.toys"
+useragent = "github.com/akashc777/dns"
 
 snapshot_enabled = true
 snapshot_file = "weather.snapshot"

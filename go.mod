@@ -1,4 +1,4 @@
-module github.com/knadh/dns.toys
+module github.com/akashc777/dns
 
 go 1.17
 
